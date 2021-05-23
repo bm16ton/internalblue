@@ -1,0 +1,3 @@
+[console_scripts]
+internalblue = internalblue.cli:internalblue_entry_point
+

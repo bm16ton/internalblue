@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: internalblue
+Version: 0.4
+Summary: A Bluetooth Experimentation Framework based on the Broadcom Bluetooth Controller Family.
+Home-page: http://github.com/seemoo-lab/internalblue
+Author: The InternalBlue Team
+Author-email: jiska@bluetooth.lol
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Provides-Extra: binutils
+Provides-Extra: macoscore

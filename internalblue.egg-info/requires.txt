@@ -1,0 +1,10 @@
+cmd2
+future
+pure-python-adb
+
+[binutils]
+pwntools>=4.0.1
+pyelftools
+
+[macoscore]
+pyobjc
